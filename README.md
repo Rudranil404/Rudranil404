@@ -6,15 +6,12 @@ I'm Currently working on Que Systems
 <a href="https://www.facebook.com/share/1Bae3c56ZT/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white">
 </a>
-
 <a href="https://www.instagram.com/rudranil___paul" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white">
 </a>
-
 <a href="https://in.linkedin.com/in/rudranil-paul-ab9793202" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white">
 </a>
-
 <a href="mailto:rudranilpaul11@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
 </a>
